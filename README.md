@@ -1,4 +1,4 @@
-# Memory Overlap destection
+# Memory Overlap detection
 
 [Python] Detection of memory overlap comparaison with NumPy
 
