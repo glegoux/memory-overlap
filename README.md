@@ -2,6 +2,8 @@
 
 [Python] Detection of memory overlap comparaison with NumPy
 
+![Memory Overlap](../doc/memory_overlap,jpg)
+
 
 **References**  
 
