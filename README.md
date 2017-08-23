@@ -2,7 +2,7 @@
 
 [Python] Detection of memory overlap comparaison with NumPy
 
-![Memory Overlap](./doc/memory_overlap,jpg)
+![Memory Overlap](https://raw.githubusercontent.com/glegoux/memory-overlap/master/doc/memory_overlap.jpg)
 
 
 **References**  
