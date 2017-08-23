@@ -4,6 +4,7 @@
 
 ![Memory Overlap](https://raw.githubusercontent.com/glegoux/memory-overlap/master/doc/memory_overlap.jpg)
 
+See [StackOverflow Question](https://stackoverflow.com/questions/44865261/what-is-the-difference-between-numpy-shares-memory-and-numpy-may-share-memory).
 
 **References**  
 
